@@ -1,4 +1,4 @@
-Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,labels
+Id,SepalLengthCm,SepalWidthCm,PetalLengthCm,PetalWidthCm,Labels
 1,4.6,3.2,1.4,0.2,unlabel
 2,5.3,3.7,1.5,0.2,unlabel
 3,5.0,3.3,1.4,0.2,unlabel
